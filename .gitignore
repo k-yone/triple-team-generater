@@ -1,3 +1,7 @@
 cache
 out
 result
+check_sheet.json
+check_sheet_skippable.json
+megas.json
+private_scraper/
